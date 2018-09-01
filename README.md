@@ -11,3 +11,7 @@ Programming, physical computing, fabrication, rapid prototyping, accessibility, 
 [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UU5oS3VYNGpiOXBHfGRlZmF1bHR8NWI3NTk5MWRmZDM5ZGJiMzEzMGJjMjFhMTYzMDQyZTM)  
 
 
+### Koji
+koji.kanao@nyu.edu     
+programming, physical computing     
+[Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UU9vRDZpM2RFa1Q4fGRlZmF1bHR8NGZiZDRjYmI5MjRhN2JiZmMxMDQ2ZmJjOThlYTFhMmI)      
