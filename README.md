@@ -14,4 +14,9 @@ Programming, physical computing, fabrication, rapid prototyping, accessibility, 
 ### Koji
 koji.kanao@nyu.edu     
 programming, physical computing     
-[Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UU9vRDZpM2RFa1Q4fGRlZmF1bHR8NGZiZDRjYmI5MjRhN2JiZmMxMDQ2ZmJjOThlYTFhMmI)      
+[Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UU9vRDZpM2RFa1Q4fGRlZmF1bHR8NGZiZDRjYmI5MjRhN2JiZmMxMDQ2ZmJjOThlYTFhMmI)  
+
+### Regina Cantu (Lola)
+regina.cantu@nyu.edu     
+physical computing, fabrication, unity, illustrator, photoshop, premier, Vuforia AR     
+[Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUhJSkR2QjN3a2hWfGRlZmF1bHR8YTFiOThkMmRiMzdkNTI5NDI1MjdhMTBmZWM1MjQyYTE)
